@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.0x5afe.lenstester
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
